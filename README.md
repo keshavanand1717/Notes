@@ -7,6 +7,8 @@ Please download the source code files. Then either use code sandbox (online webs
 
 Please Run the command - export NODE_OPTIONS=--openssl-legacy-provider on the terminal if you encounter the error 'error:03000086:digital envelope routines::initialization error' and then run npm start.
 
+Some of the important pages of the website is shown in the following screenshots:-
 
+<img width="1429" alt="Screenshot 2023-07-09 at 2 24 05 PM" src="https://github.com/keshavanand1717/Notes/assets/95139377/437ce873-2bdb-45d8-a1a2-d533a13c5af3">
 
 
